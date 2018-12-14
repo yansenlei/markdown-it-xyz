@@ -9,6 +9,8 @@
 npm install markdown-it-xyz
 ```
 
+## Demo
+![png](https://i.loli.net/2018/12/14/5c130dbf94250.png)
 
 ## Usage
 
